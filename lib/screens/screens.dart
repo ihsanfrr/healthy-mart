@@ -1,1 +1,3 @@
-export 'splash_screen/splash_screen.dart';
+import 'package:flutter/material.dart';
+
+part 'splash_screen/splash_screen.dart';
