@@ -14,9 +14,9 @@ class MyApp extends StatelessWidget {
       debugShowCheckedModeBanner: false,
       title: 'Healthy Mart',
       theme: ThemeData(
-        primarySwatch: Colors.blue,
+        fontFamily: 'Inter',
       ),
-      home: const SplashScreen(),
+      home: const OnBoardingScreen(),
     );
   }
 }
