@@ -1,4 +1,4 @@
-import 'package:flutter/material.dart';
+part of 'shared.dart';
 
 class TypographyMart {
   static const heading1 = TextStyle(

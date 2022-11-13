@@ -1,6 +1,4 @@
-import 'package:flutter/material.dart';
-import 'package:mart/models/models.dart';
-import 'package:mart/shared/shared.dart';
+part of '../screens.dart';
 
 class OnBoardingScreen extends StatefulWidget {
   const OnBoardingScreen({

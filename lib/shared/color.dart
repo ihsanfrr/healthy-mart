@@ -1,4 +1,4 @@
-import 'package:flutter/material.dart';
+part of 'shared.dart';
 
 class ColorMart {
   static const primary = Color(0xFF46BB1B);

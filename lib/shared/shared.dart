@@ -1,3 +1,5 @@
-export 'color.dart';
-export 'typography.dart';
-export 'button.dart';
+import 'package:flutter/material.dart';
+
+part 'color.dart';
+part 'typography.dart';
+part 'button.dart';

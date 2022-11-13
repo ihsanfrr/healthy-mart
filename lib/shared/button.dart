@@ -1,5 +1,4 @@
-import 'package:flutter/material.dart';
-import 'package:mart/shared/shared.dart';
+part of 'shared.dart';
 
 class ButtonMart {
   static Widget theme({
